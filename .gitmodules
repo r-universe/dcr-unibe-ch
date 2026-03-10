@@ -2,9 +2,15 @@
 	path = .registry
 	url = https://github.com/dcr-unibe-ch/dcr-unibe-ch.r-universe.dev
 	branch = HEAD
+[submodule "CTUtemplate"]
+	path = CTUtemplate
+	url = https://github.com/dcr-unibe-ch/CTUtemplate
 [submodule "presize"]
 	path = presize
 	url = https://github.com/dcr-unibe-ch/presize
 [submodule "randotools"]
 	path = randotools
 	url = https://github.com/dcr-unibe-ch/randotools
+[submodule "redcaptools"]
+	path = redcaptools
+	url = https://github.com/dcr-unibe-ch/redcaptools
