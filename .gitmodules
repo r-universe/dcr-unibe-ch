@@ -8,6 +8,12 @@
 [submodule "accrualPlot"]
 	path = accrualPlot
 	url = https://github.com/dcr-unibe-ch/accrualPlot
+[submodule "btabler"]
+	path = btabler
+	url = https://github.com/dcr-unibe-ch/btabler
+[submodule "kpitools"]
+	path = kpitools
+	url = https://github.com/dcr-unibe-ch/kpitools
 [submodule "presize"]
 	path = presize
 	url = https://github.com/dcr-unibe-ch/presize
