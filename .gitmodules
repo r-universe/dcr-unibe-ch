@@ -5,6 +5,9 @@
 [submodule "CTUtemplate"]
 	path = CTUtemplate
 	url = https://github.com/dcr-unibe-ch/CTUtemplate
+[submodule "accrualPlot"]
+	path = accrualPlot
+	url = https://github.com/dcr-unibe-ch/accrualPlot
 [submodule "presize"]
 	path = presize
 	url = https://github.com/dcr-unibe-ch/presize
@@ -14,3 +17,6 @@
 [submodule "redcaptools"]
 	path = redcaptools
 	url = https://github.com/dcr-unibe-ch/redcaptools
+[submodule "unibeCols"]
+	path = unibeCols
+	url = https://github.com/dcr-unibe-ch/unibeCols
