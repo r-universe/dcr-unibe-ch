@@ -17,6 +17,9 @@
 [submodule "redcaptools"]
 	path = redcaptools
 	url = https://github.com/dcr-unibe-ch/redcaptools
+[submodule "svn"]
+	path = svn
+	url = https://github.com/dcr-unibe-ch/svn
 [submodule "unibeCols"]
 	path = unibeCols
 	url = https://github.com/dcr-unibe-ch/unibeCols
