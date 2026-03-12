@@ -5,15 +5,27 @@
 [submodule "CTUtemplate"]
 	path = CTUtemplate
 	url = https://github.com/dcr-unibe-ch/CTUtemplate
+[submodule "SCTORvalidation"]
+	path = SCTORvalidation
+	url = https://github.com/SwissClinicalTrialOrganisation/SCTORvalidation_Rpackage
 [submodule "accrualPlot"]
 	path = accrualPlot
 	url = https://github.com/dcr-unibe-ch/accrualPlot
 [submodule "btabler"]
 	path = btabler
 	url = https://github.com/dcr-unibe-ch/btabler
+[submodule "forplot"]
+	path = forplot
+	url = https://github.com/dcr-unibe-ch/forplot
+[submodule "harmBounds"]
+	path = harmBounds
+	url = https://github.com/dcr-unibe-ch/harmBounds
 [submodule "kpitools"]
 	path = kpitools
 	url = https://github.com/dcr-unibe-ch/kpitools
+[submodule "powergrid"]
+	path = powergrid
+	url = https://github.com/SwissClinicalTrialOrganisation/powergrid
 [submodule "presize"]
 	path = presize
 	url = https://github.com/dcr-unibe-ch/presize
@@ -23,6 +35,15 @@
 [submodule "redcaptools"]
 	path = redcaptools
 	url = https://github.com/dcr-unibe-ch/redcaptools
+[submodule "secuTrialR"]
+	path = secuTrialR
+	url = https://github.com/SwissClinicalTrialOrganisation/secuTrialR
+[submodule "sse"]
+	path = sse
+	url = https://github.com/thofab/sse
+[submodule "survSAKK"]
+	path = survSAKK
+	url = https://github.com/SAKK-Statistics/survSAKK
 [submodule "svn"]
 	path = svn
 	url = https://github.com/dcr-unibe-ch/svn
