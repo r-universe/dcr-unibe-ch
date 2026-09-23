@@ -20,6 +20,9 @@
 [submodule "forplot"]
 	path = forplot
 	url = https://github.com/dcr-unibe-ch/forplot
+[submodule "gtsummarytools"]
+	path = gtsummarytools
+	url = https://github.com/dcr-unibe-ch/gtsummarytools
 [submodule "harmBounds"]
 	path = harmBounds
 	url = https://github.com/dcr-unibe-ch/harmBounds
