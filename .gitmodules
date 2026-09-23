@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/dcr-unibe-ch/dcr-unibe-ch.r-universe.dev
 	branch = HEAD
+[submodule "AdaptiveDesignSim"]
+	path = AdaptiveDesignSim
+	url = https://github.com/dcr-unibe-ch/AdaptiveDesignSim
 [submodule "CTUtemplate"]
 	path = CTUtemplate
 	url = https://github.com/dcr-unibe-ch/CTUtemplate
