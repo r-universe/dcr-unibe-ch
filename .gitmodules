@@ -14,6 +14,9 @@
 [submodule "accrualPlot"]
 	path = accrualPlot
 	url = https://github.com/dcr-unibe-ch/accrualPlot
+[submodule "artcatr"]
+	path = artcatr
+	url = https://github.com/dcr-unibe-ch/artcatr
 [submodule "btabler"]
 	path = btabler
 	url = https://github.com/dcr-unibe-ch/btabler
