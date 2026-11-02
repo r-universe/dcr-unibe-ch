@@ -8,6 +8,9 @@
 [submodule "CTUtemplate"]
 	path = CTUtemplate
 	url = https://github.com/dcr-unibe-ch/CTUtemplate
+[submodule "DxPower"]
+	path = DxPower
+	url = https://github.com/dcr-unibe-ch/DxPower
 [submodule "SCTORvalidation"]
 	path = SCTORvalidation
 	url = https://github.com/SwissClinicalTrialOrganisation/SCTORvalidation_Rpackage
